@@ -1,1 +1,1 @@
-# food-app-ui
+# food-app
